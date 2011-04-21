@@ -1,4 +1,4 @@
-1303362861
+1303365335
 Application	C:/Users/Felipe/Desktop/rails_projects/first_app/config/application.rb	  class Application 
 ApplicationController	C:/Users/Felipe/Desktop/rails_projects/first_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/Users/Felipe/Desktop/rails_projects/first_app/app/helpers/application_helper.rb	module ApplicationHelper
